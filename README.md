@@ -13,7 +13,7 @@ duplicating it across all node applications
 
 Your app must have these environment variables defined to use this library
 
-**NEW_RELIC_ENABLED**: `"true"` or `"false"` (default `"true"`). Defines whether
+**NEW_RELIC_ENABLED**: `"true"` or `"false"` (default `"false"`). Defines whether
 newrelic should be used or not. If set to `"false"`, newrelic won't be
 loaded at all.
 
