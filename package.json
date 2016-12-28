@@ -1,7 +1,7 @@
 {
   "name": "chpr-newrelic",
   "version": "1.0.0",
-  "description": "New relic integration package",
+  "description": "This utility library implements our standard newrelic integration",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Please perform a manual test (see section about testing in readme)!\""
