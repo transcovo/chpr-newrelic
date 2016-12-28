@@ -1,0 +1,22 @@
+{
+  "name": "chpr-newrelic",
+  "version": "1.0.0",
+  "description": "This utility library implements our standard newrelic integration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Please perform a manual test (see section about testing in readme)!\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/transcovo/chpr-newrelic.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/transcovo/chpr-newrelic/issues"
+  },
+  "homepage": "https://github.com/transcovo/chpr-newrelic#readme",
+  "dependencies": {
+    "newrelic": "1.36.0"
+  }
+}
